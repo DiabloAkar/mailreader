@@ -2,7 +2,8 @@
 AkarGang MailReader
 
 <img src="https://cdn.discordapp.com/attachments/855538620168929280/872047705403314226/standard.gif" width="500" />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jxXq_jkUwjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Tıkla](https://www.youtube.com/watch?v=jxXq_jkUwjs) Canlı yapılma anı.
+
 ## Giriş:
 
 - [AkarGang Discord](https://discord.gg/akargang) Sayfasına gidin
