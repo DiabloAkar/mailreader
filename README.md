@@ -2,7 +2,7 @@
 AkarGang MailReader
 
 <img src="https://cdn.discordapp.com/attachments/855538620168929280/872047705403314226/standard.gif" width="500" />
-[Tıkla](https://www.youtube.com/watch?v=jxXq_jkUwjs) Canlı yapılma anı.
+-  [Tıkla](https://www.youtube.com/watch?v=jxXq_jkUwjs) Canlı yapılma anı.
 
 ## Giriş:
 
