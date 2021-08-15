@@ -1,5 +1,5 @@
-# Windows11 RDP
-Ücretsiz Windows 11 RDP (1 SAAT)
+# AkarGang
+AkarGang Mail Reader
 
 <img src="https://cdn.discordapp.com/attachments/855538620168929280/872047705403314226/standard.gif" width="500" />
 
