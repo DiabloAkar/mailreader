@@ -6,6 +6,7 @@ AkarGang MailReader
 ## Giriş:
 
 - [AkarGang Discord](https://discord.gg/akargang) Sayfasına gidin
+- [TheWebDark](https://thewebdark.com) Sayfasına gidin
 -  **"Herhangi bir sorun olursa bize ulaş"** 
 -  **"AkarGang Developers"**
 
